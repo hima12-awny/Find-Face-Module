@@ -1,2 +1,2 @@
 # Find-Face-Module
-i made this using mediapipe lib made by google
+i made this using mediapipe lib made by google.
