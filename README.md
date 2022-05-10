@@ -1,2 +1,4 @@
 # Find-Face-Module
-i made this using mediapipe lib made by google.
+you must install <br>
+<b>pip install opencv-python<b> <br>
+<b>pip install mediapipe<b> 
