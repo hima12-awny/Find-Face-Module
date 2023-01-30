@@ -11,6 +11,8 @@ This module uses libraries Mediapipe and OpenCV.
 1. install Library required 
 ```
 pip install opencv-python
+```
+```
 pip install mediapipe
 ```
 
